@@ -8,11 +8,12 @@
 # Table of Contents
 
 1. [Overview](#Overview)
-2. [NPC Cleo](#Cleo)
-3. [Cipher Scrolls Quest 1 - Explore Hainir's Cave System](#Quest_1)
-4. [Cipher Scrolls Quest 2 - Deep Dive Ghaldassii Ruins ](#Quest_2)
-5. [The Pantheon Race of Feylindar](#Feylindar)
-6. [NPC Elandil - "The Lute Player"](#Elandil)
+2. [Interactive Non-player Character Dialogs Generated Through Lore:](#Dialogs)
+3. - NPC Cleo the Feylindar
+4. - [Cipher Scrolls Quest 1 - Explore Hainir's Cave System](#Quest_1)
+5. - [Cipher Scrolls Quest 2 - Deep Dive Ghaldassii Ruins ](#Quest_2)
+6. [The Pantheon Race of Feylindar](#Feylindar)
+7. [NPC Elandil - "The Lute Player"](#Elandil)
 
 ---
 # Overview
