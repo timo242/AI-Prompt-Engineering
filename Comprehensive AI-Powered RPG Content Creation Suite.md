@@ -1,17 +1,16 @@
 ![AI-RPG](Images/castigue_1.png)
 
 
-# AI-Driven Content Creation Suite 
+# AI-Driven Prompt Engineering Content Creation Suite 
 
 ---
 
 # Table of Contents
 
 1. [Prompt Engineering - Content Creation suite](#Overview)
-2. 
-3. [NPC Cleo](#Cleo)<br>
+3. [NPC Cleo](#Cleo)
 4. [Cipher Scrolls Quest 1 - Explore Hainir's Cave System](#Quest_1)
-5. [Cipher Scrolls Quest 2 - Deep Dive Ghaldassii Ruins ](#Quest_2)<br>
+5. [Cipher Scrolls Quest 2 - Deep Dive Ghaldassii Ruins ](#Quest_2)
 6. [The Pantheon Race of Feylindar](#Feylindar)
 7. [Elyndria - Daughter of the Infinite Union](#Elyndria)
 8. [Janis Sova, Lord of Owls profile and internal monologue](#Janis_Sova)
@@ -65,7 +64,7 @@ In essence, my portfolio represents the cutting-edge intersection of creativity 
 ---
 
 #### My_Journey
-<span style="color:#ffc600">"This work is a creative tapestry, carefully woven by blending the publicly available lore of [Visionary Realms' 'Pantheon: Rise of the Fallen'](https://www.pantheonmmo.com/) with a stroke of artistic invention. It aims to underline the profound capabilities of prompt engineering with ChatGPT 4.0, emphasizing its potential to generate rich and compelling fictional realms. Moreover, it stands as a reflection of my own creative journey, showcasing my proficiency and forward-thinking in developing immersive content. Throughout this endeavor, I've engaged deeply in writing, yet the essence of 'Prompt Engineering for Creative Fiction' positions me akin to both an Engineer and Director, orchestrating the narrative as AI takes the lead as the principal performer.<br><br>This project is not just an exploration of AI's narrative potential, but a harmonization of the original Pantheon Lore with my unique interpretative vision, using AI as a dynamic and integral component of the creative process.<br><br>The human touch, embodying both emotion and creativity, remains irreplaceable in the creative process. AI, devoid of genuine feeling or inventiveness, relies on the human spark to seed and guide its narratives, ensuring that the stories resonate with authentic emotional depth and imaginative flair."</span> 
+<span style="color:#ffc600">"This work is a creative tapestry, carefully woven by blending the publicly available lore of [Visionary Realms' 'Pantheon: Rise of the Fallen'](https://www.pantheonmmo.com/) with a stroke of artistic invention. It aims to underline the profound capabilities of prompt engineering with ChatGPT 4.0, emphasizing its potential to generate rich and compelling story-telling. Moreover, it stands as a reflection of my own creative journey, showcasing my proficiency and forward-thinking in developing immersive content. Throughout this endeavor, I've engaged deeply in writing, yet the essence of 'Prompt Engineering for Creative Fiction' positions me akin to both an Engineer and Director, orchestrating the narrative as AI takes the lead as the principal performer.<br><br>This project is not just an exploration of AI's narrative potential, but a harmonization of the original Pantheon Lore with my unique interpretative vision, using AI as a dynamic and integral component of the creative process.<br><br>The human touch, embodying both emotion and creativity, remains irreplaceable in the creative process. AI, devoid of genuine feeling or inventiveness, relies on the human spark to seed and guide its narratives, ensuring that the stories resonate with authentic emotional depth and imaginative flair."</span> 
 
 ---
 
@@ -98,8 +97,8 @@ In essence, my portfolio represents the cutting-edge intersection of creativity 
 
 ## note:
 
-Quest 1 json file is [here](https://github.com/timo242/AI-Prompt-Engineering/blob/main/cipher_scrolls_q1.json).
-Quest 2 json file is [here](https://github.com/timo242/AI-Prompt-Engineering/blob/main/ghaldassii_cipher_scrolls.json))
+Quest 1 json file is [here](https://github.com/timo242/AI-Prompt-Engineering/blob/main/cipher_scrolls_q1.json).<br>
+Quest 2 json file is [here](https://github.com/timo242/AI-Prompt-Engineering/blob/main/ghaldassii_cipher_scrolls.json)
 
 ---
 # Quest_1
@@ -171,7 +170,7 @@ But their creation was more than a matter of survival. Ginavi, in her wisdom, en
 
 Thus, the Feylindar were born, a race as varied and vibrant as the world they were destined to inhabit. As part of Ginavi's grand design, the Feylindar were not just survivors of a chaotic age, but active participants in shaping the future of Terminus. Over time, they integrated into all elements of society, from scholars and warriors to diplomats and mystics, each one a unique reflection of their rich heritage and the world they called home.
 
-While the Ashen Elves were chosen as the custodians of Elyndria's ethereal chrysalis, it would be the Feylindar who would raise and nurture her from infancy following her awakening, a task that further emphasized their crucial role in the unfolding narrative of Terminus.
+While the Ashen Elves were chosen as the custodians of [Elyndria's ethereal chrysalis](#Elyndria), it would be the Feylindar who would raise and nurture her from infancy following her awakening, a task that further emphasized their crucial role in the unfolding narrative of Terminus.
 
 ---
 ---
@@ -215,7 +214,7 @@ When the time came, and Elyndria awoke to a world fraught with change and challe
 
 # Janis_Sova
 
-![Janis Sova](Images/sova_1_sm.png) 
+![Janis Sova](Images/Sova_1_sm.png) 
 
 # Janis Sova - Lord of Owls
 "Janis Sova, the enigmatic figure known alternately as the "Lord of Owls," is a master of the Dark Trades, a profession that encompasses assassins, bounty hunters, and agents of espionage on Terminus. His reputation is as shadowy as the profession he practices, and his true identity is a matter of much debate. Sova is believed to be a human, although not of Thronefast, and his age and stature remain uncertain. What is consistent in almost all accounts of Sova are his deep-set, amber eyes that have a smoky hue, reminiscent of an owl's gaze. It is these eyes that have given him his epithet, following a legendary mission early in his career which demonstrated his unique approach to his work. 
@@ -235,7 +234,9 @@ Despite walking into the very light that his contemporaries dread, Sova remains 
 ---
 
 # Elandil
-### Elandil: Updated Character Profile
+### Elandil "The Lute Player" Character Profile
+
+> **The Lute Players is an idea for a factional information network of NPC's who populate the Taverns across Terminus**
 
 ![Elandil](Images/Elandil_1_sm.png) 
 
