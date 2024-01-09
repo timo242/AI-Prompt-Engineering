@@ -17,7 +17,7 @@
      
 9. [NPC Elandil - "The Lute Player"](#Elandil)
 
-10. [Prompt Engineering Python code](https://github.com/timo242/AI-Prompt-Engineering/blob/main/cleo_cipher_scroll_q1.ipynb)
+10. [Prompt Engineering Python code](https://github.com/timo242/AI-Prompt-Engineering/blob/main/AI_Prompt_Engineering.ipynb)
 
 ---
 
