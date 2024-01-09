@@ -25,7 +25,7 @@
 
 **Portfolio Overview:**
 
-My development portfolio showcases a comprehensive suite designed to revolutionize ontent creation through its broad scope and multifaceted functionality. Here's a detailed look at what I've developed and can offer to a company:
+My development portfolio showcases a comprehensive suite designed to revolutionize content creation through its broad scope and multifaceted functionality. Here's a detailed look at what I've developed and can offer to a company:
 
 **Multi-Faceted Content Generation**: My tool goes beyond traditional boundaries, adeptly crafting immersive stories, detailed item descriptions, character backstories, and more. Each content piece is meticulously tailored to enrich the RPG world, adding unparalleled depth and variety.
 
@@ -70,7 +70,7 @@ In essence, my portfolio represents the cutting-edge intersection of creativity 
 
 ### "NPC Characterization and Quest Interaction - Tailored Dialogue Based on Race and Class"
 
->This [Prompt Engineering Python code](https://github.com/timo242/AI-Prompt-Engineering/blob/main/cleo_cipher_scroll_q1.ipynb) is a sophisticated RPG Content Creation Suite designed to automate and enrich the dialogue and quest creation process in role-playing games. By leveraging OpenAI's GPT-4, it generates dynamic, lore-rich dialogues tailored to each player's race and class, providing a deeply personalized gaming experience. This not only elevates the narrative depth and immersion for players but also significantly frees up creative writers from the time-consuming task of crafting individual NPC dialogues, allowing them to focus on broader story arcs and world-building. The suite represents a blend of technology and creativity, pushing forward the capabilities of interactive storytelling in gaming.
+>This [Prompt Engineering Python code](https://github.com/timo242/AI-Prompt-Engineering/blob/main/AI_Prompt_Engineering.ipynb) is a sophisticated RPG Content Creation Suite designed to automate and enrich the dialogue and quest creation process in role-playing games. By leveraging OpenAI's GPT-4, it generates dynamic, lore-rich dialogues tailored to each player's race and class, providing a deeply personalized gaming experience. This not only elevates the narrative depth and immersion for players but also significantly frees up creative writers from the time-consuming task of crafting individual NPC dialogues, allowing them to focus on broader story arcs and world-building. The suite represents a blend of technology and creativity, pushing forward the capabilities of interactive storytelling in gaming.
 
 ---
 
